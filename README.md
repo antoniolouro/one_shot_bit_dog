@@ -8,5 +8,8 @@ Abaixo há dois vídeos demonstrando o funcionamento no wokwi e na placa BitDogL
 ## Vídeos Demonstrativos
 
 Confira o vídeo no link abaixo:
-[![Vídeo 1](https://img.youtube.com/vi/q2eHIBD4UGo/0.jpg)](https://youtu.be/q2eHIBD4UGo)  
+
+[![Vídeo 1](https://img.youtube.com/vi/q2eHIBD4UGo/0.jpg)](https://youtu.be/q2eHIBD4UGo) 
+
+
 [![Vídeo 2](https://img.youtube.com/vi/K9Jtk5yEXOY/0.jpg)](https://youtu.be/K9Jtk5yEXOY)
